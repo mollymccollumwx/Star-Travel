@@ -57,6 +57,7 @@
   }
   
   .cards__item__pic-wrap::after {
+      /* takes the data category from the card Item for the label */
     content: attr(data-category);
     position: absolute;
     bottom: 0;
