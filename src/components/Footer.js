@@ -64,8 +64,8 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
-              <i class='fab fa-typo3' />
+              <i className="fab fa-galactic-republic" />SPACE TRAVEL
+              
             </Link>
           </div>
           <small class='website-rights'>SPACE TRAVEL © 2021</small>
