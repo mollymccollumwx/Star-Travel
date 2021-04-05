@@ -28,8 +28,8 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}><i className="fab fa-galactic-republic" />
-             STAR TRAVEL
+          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}><i class="fab fa-jedi-order"></i> 
+             HYPERSPACE
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />

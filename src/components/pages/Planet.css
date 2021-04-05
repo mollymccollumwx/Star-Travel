@@ -1,0 +1,14 @@
+.planet {
+    background-image: url('../../images/tatooineplanet.jpeg');
+    background-position: center;
+    object-fit: cover;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    max-width: 100%;
+    min-width: 100%;
+    font-size: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+  } 

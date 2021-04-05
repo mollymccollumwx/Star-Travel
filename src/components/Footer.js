@@ -64,11 +64,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              <i className="fab fa-galactic-republic" />SPACE TRAVEL
+            <i class="fab fa-jedi-order"></i> HYPERSPACE
               
             </Link>
           </div>
-          <small class='website-rights'>SPACE TRAVEL © 2021</small>
+          <small class='website-rights'>HYPERSPACE © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

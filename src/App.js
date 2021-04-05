@@ -6,6 +6,7 @@ import Home from "./components/pages/Home"
 import Services from "./components/pages/Services"
 import Products from "./components/pages/Products"
 import Signup from "./components/pages/Signup"
+import Planet from "./components/pages/Planet"
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path='/services' component={Services}/>
         <Route path='/products' component={Products}/>
         <Route path='/signup' component={Signup}/>
+        <Route path='/tatooine' component={Planet}/>
       </Switch>
       </Router>
     </>
